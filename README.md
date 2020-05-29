@@ -1,4 +1,4 @@
-# program to get Names and role of precious connection on Linkdin
+# Program to get Names and role of precious connection on Linkdin
 
 You will find all programs here
 
